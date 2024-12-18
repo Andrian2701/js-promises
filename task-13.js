@@ -12,4 +12,4 @@ const timer1 = setTimeout(() => {
 
 console.log(6);
 
-// 1 6 4 2 5 3
+// 1 6 2 4 5 3
